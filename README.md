@@ -1,4 +1,4 @@
-# Find Text Sheet
+# Find Text Doc
 
 [![crates.io](https://img.shields.io/crates/v/findtext_doc?label=latest)](https://crates.io/crates/findtext_doc)
 [![Documentation](https://docs.rs/findtext_doc/badge.svg?version=latest)](https://docs.rs/findtext_doc/latest)
