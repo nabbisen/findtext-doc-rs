@@ -1,9 +1,9 @@
 # Find Text Doc
 
 [![crates.io](https://img.shields.io/crates/v/findtext_doc?label=latest)](https://crates.io/crates/findtext_doc)
-[![Documentation](https://docs.rs/findtext_doc/badge.svg?version=latest)](https://docs.rs/findtext_doc/latest)
-[![Dependency Status](https://deps.rs/crate/findtext_doc/latest/status.svg)](https://deps.rs/crate/findtext_doc/latest)
-[![Releases Workflow](https://github.com/nabbisen/findtext-doc-rs/actions/workflows/release.yml/badge.svg)](https://github.com/nabbisen/findtext-doc-rs/actions/workflows/)
+[![Documentation](https://docs.rs/findtext_doc/badge.svg?version=latest)](https://docs.rs/findtext_doc)
+[![Dependency Status](https://deps.rs/crate/findtext_doc/latest/status.svg)](https://deps.rs/crate/findtext_doc)
+[![Releases Workflow](https://github.com/nabbisen/findtext-doc-rs/actions/workflows/release-executable.yaml/badge.svg)](https://github.com/nabbisen/findtext-doc-rs/actions/workflows/release-executable.yaml)
 [![License](https://img.shields.io/github/license/nabbisen/findtext-doc-rs)](https://github.com/nabbisen/findtext-doc-rs/blob/main/LICENSE)
 
 ## Summary
